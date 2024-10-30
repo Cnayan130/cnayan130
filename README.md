@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋 I am Cnayan130.
 
-<!--
-**Cnayan130/cnayan130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently learning Java development for Java software and Minecraft development.
 
-Here are some ideas to get you started:
+## What can I do?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am capable of coding simple Java programs and developing projects that I find interesting.
+
+---
+
+That's all. Thanks.
+
+## What's wrong with you?
+
+My account was once leaked due to an email data leak, and Microsoft officials could not contact me and could not get it back, so my warehouse and organization were lost. I am very sorry.
+
+My previous usernames: **LEFT_Flamelight, Layaot**
